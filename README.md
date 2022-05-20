@@ -3,8 +3,8 @@ Whether financial, political, or social -- data's true power lies in its ability
 In this example, I have created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
 # Data Source:
-[OpenWeatherMap API](https://openweathermap.org/api)
-[Google Maps API](https://maps.googleapis.com/maps/api/place/nearbysearch/json)
+* [OpenWeatherMap API](https://openweathermap.org/api)
+* [Google Maps API](https://maps.googleapis.com/maps/api/place/nearbysearch/json)
 
 # Technologies/Tools: 
 &#10004;Pandas      &#10004;Gmaps      &#10004;Matplotlib      &#10004;Python        
